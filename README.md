@@ -1,1 +1,1 @@
-ini adalah file pertama saya menggunakan git
+ini adalah file pertama saya menggunakan git dan ini update setelah saya tambahkan teks
